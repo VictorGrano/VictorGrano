@@ -1,7 +1,7 @@
 - 👋 Hey, I'm @VictorGrano
 - 😉 18 years
 - ♾️ Learning React
-- 🎓 Studying Systems Development
+- 🎓 Systems Development
 - 📫 Reach me: victordgrano@gmail.com
 - 🏙  Itajobi, São Paulo, Brazil
 <!---
