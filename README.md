@@ -1,7 +1,7 @@
 - 👋 Hey, I'm @VictorGrano
 - 😉 18 years
-- ♾️ Learning JavaScript
-- 🎓 Systems Development
+- ☕ Learning Java
+- 🎓 Software Engineer / I.T Managment
 - 📫 Reach me: victordgrano@gmail.com
 - 🏙  Itajobi, São Paulo, Brazil
 <!---
