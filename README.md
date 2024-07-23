@@ -1,7 +1,7 @@
 - 👋 Hey, I'm @VictorGrano
 - 😉 18 years
-- ☕ Learning Java
-- 🎓 Software Engineer / I.T Managment
+- 🎓 I.T Managment
+- 🖥️ React and React Native Developer
 - 📫 Reach me: victordgrano@gmail.com
 - 🏙  Itajobi, São Paulo, Brazil
 <!---
