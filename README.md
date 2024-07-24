@@ -2,9 +2,11 @@
 <h3 align="center">A Big Nerd from the country side of Brazil</h3>
 <p align="center">
 - 🔭 Graduated in **System Development**
-
+</p>
+<p align="center">
 - 📖 Currently Studying **I.T Managment**
-
+</p>
+<p align="center">
 - 📫 How to reach me **victordgrano@gmail.com**
 </p>
 
