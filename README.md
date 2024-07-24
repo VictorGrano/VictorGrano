@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor Grano</h1>
-<h3 align="center">A Big Nerd from the country side of Brazil</h3>
+
+<p align="center">
+- 🖥️ React and React Native Developer
+</p>
 <p align="center">
 - 🔭 Graduated in **System Development**
 </p>
