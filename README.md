@@ -4,13 +4,13 @@
 - 🖥️ React and React Native Developer
 </p>
 <p align="center">
-- 🔭 Graduated in **System Development**
+- 🔭 Graduated in System Development
 </p>
 <p align="center">
-- 📖 Currently Studying **I.T Managment**
+- 📖 Currently Studying I.T Managment
 </p>
 <p align="center">
-- 📫 How to reach me **victordgrano@gmail.com**
+- 📫 How to reach me victordgrano@gmail.com
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
