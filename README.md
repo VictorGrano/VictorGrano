@@ -10,7 +10,7 @@
 - 📖 Currently Studying I.T Managment
 </p>
 <p align="center">
-- 📫 How to reach me victordgrano@gmail.com
+- 📫 How to reach me: victordgrano@gmail.com
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
