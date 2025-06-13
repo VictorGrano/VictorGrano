@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Grano</h1>
 
 <p align="center">
-- 🖥️ React and React Native Developer
+- 🖥️ Node.JS, React and React Native Developer
 </p>
 <p align="center">
 - 🔭 Graduated in System Development
