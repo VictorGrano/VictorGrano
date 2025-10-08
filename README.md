@@ -1,28 +1,38 @@
-<h1 align="center">Hi 👋, I'm Victor Grano</h1>
+# 👋 Hey, I'm Victor Grano
 
-<p align="center">
-- 🖥️ Node.JS, React and React Native Developer
-</p>
-<p align="center">
-- 🔭 Graduated in System Development
-</p>
-<p align="center">
-- 📖 Currently Studying I.T Managment
-</p>
-<p align="center">
-- 📫 How to reach me: victordgrano@gmail.com
-</p>
+🎯 **Back-End Developer** passionate about building efficient, scalable, and clean solutions using **C#**, **.NET**, and **SQL**.  
+🎓 Technical degree in Software Development (ETEC) | Studying IT Management at FATEC-SP.  
+💡 I love creating systems that connect logic and real-world impact.
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
+---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorgrano&show_icons=true&theme=synthwave&locale=en" alt="victorgrano" /></p>
+### 🧠 About Me
+- 💻 Experienced in building **RESTful APIs**, data modeling, and process automation  
+- 🗄️ Skilled in **C#, .NET, SQL Server, PostgreSQL, Entity Framework**  
+- ⚙️ Interested in **Clean Architecture, Cloud, DevOps, and Software Design Patterns**  
+- 📚 Always learning, always improving  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorgrano&" alt="victorgrano" /></p>
+---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/victorgrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorgrano" height="30" width="40" /></a>
-<a href="https://instagram.com/victor_granoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor_granoo" height="30" width="40" /></a>
-</p>
+### 🚀 Tech Stack
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
+### 🚀 Philosophy
+> “Good code is invisible. It just works — clearly, efficiently, and forever.”  
+>  
+> I believe in writing clean, maintainable systems that make people’s lives easier and businesses run smoother.  
+> Technology should serve simplicity, not complexity.  
+> Every project is an opportunity to turn logic into impact.
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorgrano)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://granobyte.com.br)
